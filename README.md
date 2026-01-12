@@ -12,3 +12,7 @@ A centralized hub for homeless shelters and non-profits to coordinate resources 
 1. **Install Dependencies:**
    ```bash
    pip install -r requirements.txt
+2. **Run the Application**
+  python app.py
+3. **View in Browser**
+   Go to http://127.0.0.1:5000
